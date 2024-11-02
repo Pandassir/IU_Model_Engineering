@@ -1,2 +1,2 @@
 Platzhalter für EV.
-Die Evaluation wird Bericht definiert.
+Die Evaluation wird im Bericht definiert.
