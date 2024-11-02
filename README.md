@@ -10,7 +10,7 @@ Alle wichtigen Dateien zum Ausführen der Notebooks befinden sich im Ordner "Fil
 
 Anleitung zur Ausführung:
 
-Google Colab öffnen.
-Alle Dateien aus dem Ordner "Files" in das Verzeichnis "sample_data" auf der linken Seite in Colab hochladen.
+Google Colab öffnen und ausgewählte Jupyter Notebooks hinzufügen.
+Alle Dateien aus dem Ordner "Files" in das Verzeichnis "sample_data" auf der linken Seite in Colab hochladen (Drag and Drop).
 Laufzeit -> Alle ausführen ... warten, bis alle Zellen ausgeführt wurden.
 Im finalen Bericht sind alle wichtigen Schritte und Erkenntnisse beschrieben.
