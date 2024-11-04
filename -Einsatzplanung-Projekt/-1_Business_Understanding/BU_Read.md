@@ -1,2 +1,2 @@
-Platzhalter für BA.
-Das Business Understanding wird Bericht definiert.
+Platzhalter für BU.
+Das Business Understanding wird im Bericht definiert.
